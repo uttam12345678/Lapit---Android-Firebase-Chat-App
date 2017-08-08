@@ -1,9 +1,9 @@
 {
   "project_info": {
     "project_number": "1041037166500",
-    "firebase_url": "https://lapitchat-c670e.firebaseio.com",
-    "project_id": "lapitchat-c670e",
-    "storage_bucket": "lapitchat-c670e.appspot.com"
+    "firebase_url": "enter your url",
+    "project_id": "enter project id",
+    "storage_bucket": "storage bucket"
   },
   "client": [
     {

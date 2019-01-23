@@ -32,7 +32,7 @@ public class RegisterActivity extends AppCompatActivity {
     private TextInputLayout mPassword;
     private Button mCreateBtn;
 
-
+f
     private Toolbar mToolbar;
 
     private DatabaseReference mDatabase;
